@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class BlackjackPlayerTest {
+public class Spanish21PlayerTest {
 
     @Test
     public void getBalance() {
@@ -26,6 +26,7 @@ public class BlackjackPlayerTest {
         //When
         //Then
     }
+
 
     @Test
     public void subtractFromBalance() {
